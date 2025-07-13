@@ -1,5 +1,13 @@
 <h1 align="center">Hi there, I'm Kurt 👋</h1>
 
+<div align="center">
+  
+  ![Visitor Count](https://komarev.com/ghpvc/?username=ZeroPlaya&style=flat-square)
+
+</div>
+
+
+
 🎓 CS Graduate | 🚀 Aspiring Data Engineer  
 💻 Currently exploring **data pipelines**
 
