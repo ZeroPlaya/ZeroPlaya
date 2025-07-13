@@ -1,6 +1,5 @@
 # Hi there, I'm Kurt 👋
 
-
 🎓 CS Graduate | 🚀 Aspiring Data Engineer  
 💻 Currently exploring **data pipelines**
 
@@ -11,10 +10,9 @@
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
 
-
-
 ## GitHub Stats:
 
-![ZeroPlaya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZeroPlaya&show_icons=true&theme=merko&hide_border=true&bg_color=00000000)
-[![GitHub Streak](https://streak-stats.demolab.com?user=ZeroPlaya&theme=merko&hide_border=true&background=00000000)](https://git.io/streak-stats)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZeroPlaya&show_icons=true&theme=merko&hide_border=true&bg_color=00000000" width="400" />
+  <img src="https://streak-stats.demolab.com?user=ZeroPlaya&theme=merko&hide_border=true&background=00000000" width="400" />
+</p>
