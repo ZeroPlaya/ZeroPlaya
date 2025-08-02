@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Kurt 👋</h1>
+<h1 align="center">Hi there, I'm Kurt! 👋</h1>
 
 <div align="center">
   
@@ -8,7 +8,7 @@
 
 
 
-🎓 CS Graduate | 🚀 Aspiring Data Engineer  
+🎓 CS Graduate, specializing in Data Science | 🚀 Aspiring Data Engineer  
 💻 Currently exploring **data pipelines**
 
 ## Languages and Tools:
